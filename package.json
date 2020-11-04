@@ -1,0 +1,14 @@
+{
+  "name": "analizador-lexico",
+  "version": "1.0.0",
+  "description": "Pequenyo analizador lexico para lenguaje javascript pdl",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Leon Aragon",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
